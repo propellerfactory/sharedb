@@ -399,6 +399,7 @@ Additional fields may be added to the error object for debugging context dependi
 * 4024 - Invalid version
 * 4025 - Incorrect schema version
 * 4026 - Migration is to an older version
+* 4027 - Op from the future
 
 ### 5000 - Internal error
 
